@@ -1,0 +1,32 @@
+body{
+    background-image: url(ewu.jpg);
+    background-attachment: scroll;  
+	background-size: cover; 
+	background-repeat: no-repeat;
+}
+.my_div{
+	background: rgba(255, 255, 255, 0.73);
+	position:relative;
+	margin-top:150px;
+	color:rgb(0, 0, 0);
+}
+
+.login_div{
+	
+	background: rgba(255, 255, 255, 0.73);
+	text-align:center;
+	margin-top: 200px;
+	height:150px;
+}
+
+.btn {
+  transition-duration: 0.4s;
+  padding: 5px 10px;
+  background-color: #f44336;
+  font-size: 16px;
+}
+
+.btn:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
